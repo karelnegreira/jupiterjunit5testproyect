@@ -17,7 +17,7 @@ public class UserTest {
         assertTrue(user.age() >= 18);
         //assertEquals(user.name(), "Karel");
     }
-
+    //
     @Test
     @DisplayName("Debe de ser mayor a 18")
     void user_should_be_at_least_18_second_test() {
